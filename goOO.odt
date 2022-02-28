@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2022-02-28T19:39:31.048922468</dc:date><meta:editing-duration>PT1H27M34S</meta:editing-duration><meta:editing-cycles>23</meta:editing-cycles><meta:generator>LibreOffice/7.1.7.2$Linux_X86_64 LibreOffice_project/c6a4e3954236145e2acb0b65f68614365aeee33f</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="45" meta:word-count="662" meta:character-count="4708" meta:non-whitespace-character-count="3955"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">95114</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">46992</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22941</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">27667</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">111592</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">95114</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">46990</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">118054</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">579947</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">263340</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;, sans-serif"/>
+  <style:font-face style:name="Source Serif Pro" svg:font-family="&apos;Source Serif Pro&apos;, serif"/>
+  <style:font-face style:name="0" svg:font-family="0" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="JetBrains Mono" svg:font-family="&apos;JetBrains Mono&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="pt" fo:country="BR" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="pt" fo:country="BR" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0012e793" officeooo:paragraph-rsid="000404ac"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000404ac" officeooo:paragraph-rsid="000404ac"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000404ac" officeooo:paragraph-rsid="000404ac"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="000404ac"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0006c1b6"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0004fc2b" officeooo:paragraph-rsid="0004fc2b"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0004fc2b" officeooo:paragraph-rsid="0004fc2b"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0006c1b6" officeooo:paragraph-rsid="0006c1b6"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0006c1b6" officeooo:paragraph-rsid="0006c1b6"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0006c1b6"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000792a6" officeooo:paragraph-rsid="000792a6"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0007cff0" officeooo:paragraph-rsid="0007cff0"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0007cff0" officeooo:paragraph-rsid="0007cff0"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0008d96b" officeooo:paragraph-rsid="0008d96b"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#2b2b2b"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:background-color="#2b2b2b" fo:padding="0cm" fo:border="none" style:shadow="none"/>
+   <style:text-properties officeooo:rsid="000404ac" officeooo:paragraph-rsid="000404ac"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#2b2b2b"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:background-color="#2b2b2b" fo:padding="0cm" fo:border="none" style:shadow="none"/>
+   <style:text-properties officeooo:rsid="0004fc2b" officeooo:paragraph-rsid="0004fc2b"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#2b2b2b"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:background-color="#2b2b2b" fo:padding="0cm" fo:border="none" style:shadow="none"/>
+   <style:text-properties officeooo:rsid="0006c1b6" officeooo:paragraph-rsid="0006c1b6"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#2b2b2b"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:background-color="#2b2b2b" fo:padding="0cm" fo:border="none" style:shadow="none"/>
+   <style:text-properties officeooo:rsid="0007cff0" officeooo:paragraph-rsid="0007cff0"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="000404ac"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:color="#cc7832" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:color="#a9b7c6" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#a9b7c6" loext:opacity="100%" style:font-name="0" fo:font-size="10pt" style:font-size-asian="10pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#afbf7e" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#b09d79" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#6fafbd" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#6a8759" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#6897bb" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#ffc66d" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#4eade5" loext:opacity="100%" style:font-name="JetBrains Mono" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="0006c1b6"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P1">Golang Orientação a Objetos</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Structs</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P2">As structs ou estrutura, seriam como o molde para a criação das próximas ações. Exemplo de um banco:</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P15"><text:span text:style-name="T2">type </text:span><text:span text:style-name="T3">contaCorrente </text:span><text:span text:style-name="T2">struct </text:span><text:span text:style-name="T3">{</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/>titular <text:s text:c="6"/></text:span><text:span text:style-name="T2">string</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">numeroAgencia </text:span><text:span text:style-name="T2">int</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">numeroConta <text:s text:c="2"/></text:span><text:span text:style-name="T2">int</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">saldo <text:s text:c="8"/></text:span><text:span text:style-name="T2">float64</text:span><text:line-break/><text:span text:style-name="T3">}</text:span><text:line-break/></text:p>
+   <text:p text:style-name="P2"><text:line-break/>Dessa forma declaramos uma struck no código.</text:p>
+   <text:p text:style-name="P2">Para utilizar um sctruct chamamos da seguinte forma: </text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P15"><text:span text:style-name="T5">fmt</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T6">Println</text:span><text:span text:style-name="T3">(</text:span><text:span text:style-name="T7">contaCorrente</text:span><text:span text:style-name="T3">{</text:span><text:span text:style-name="T8">&quot;Thailan&quot;</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T9">1354</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T9">123456</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T9">233.45</text:span><text:span text:style-name="T3">})</text:span></text:p>
+   <text:p text:style-name="P2">OU</text:p>
+   <text:p text:style-name="P15"><text:line-break/><text:span text:style-name="T3">contaThailan := </text:span><text:span text:style-name="T7">contaCorrente</text:span><text:span text:style-name="T3">{</text:span><text:span text:style-name="T8">&quot;Thailan&quot;</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T9">1223</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T9">123456</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T9">1234.44</text:span><text:span text:style-name="T3">}</text:span><text:line-break/><text:span text:style-name="T5">fmt</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T6">Println</text:span><text:span text:style-name="T3">(contaThailan)</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T1"><text:line-break/>Assim, conseguimos chamar e passar que estamos criando uma ‘conta’ com os dados que já foram pre declarados dentro da estrutura acima.</text:span></text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P3">New <text:s/>e Ponteiro</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2">Ponteiro são utilizados para apontar exatamente onde desejamos, assim evitamos erros. Para dizer que estamos utilizando um ponteiro utilizamos o sinal de ‘*’, assim o código vai conseguir identificar cada ponteiro. Ex:</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P15"><text:span text:style-name="T2">func </text:span><text:span text:style-name="T10">main</text:span><text:span text:style-name="T3">() {</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T2">var </text:span><text:span text:style-name="T3">contaThailan *</text:span><text:span text:style-name="T7">contaCorrente</text:span><text:line-break/><text:line-break/><text:span text:style-name="T7"><text:tab/></text:span><text:span text:style-name="T3">contaThailan.numeroConta = </text:span><text:span text:style-name="T9">3334</text:span><text:line-break/><text:span text:style-name="T9"><text:tab/></text:span><text:span text:style-name="T3">contaThailan = </text:span><text:span text:style-name="T10">new</text:span><text:span text:style-name="T3">(</text:span><text:span text:style-name="T7">contaCorrente</text:span><text:span text:style-name="T3">)</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/>contaThailan.titular = </text:span><text:span text:style-name="T8">&quot;Thailan Santos&quot;</text:span><text:line-break/><text:span text:style-name="T8"><text:tab/></text:span><text:span text:style-name="T3">contaThailan.saldo = </text:span><text:span text:style-name="T9">320</text:span><text:line-break/><text:line-break/><text:span text:style-name="T9"><text:tab/></text:span><text:span text:style-name="T5">fmt</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T6">Println</text:span><text:span text:style-name="T3">(contaThailan)</text:span><text:line-break/><text:span text:style-name="T3">}</text:span><text:line-break/></text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P3">Comparando Tipos</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2">Quando comparamos os itens e caso eles sejam de endereços diferentes ( alocação na memoria), eles acabam que vão mudar o resultado para false, para que seja verdaeiro o tipo, mesmo que todos os dados sejam iguais, elas precisam vir do mesmo endereço. </text:p>
+   <text:p text:style-name="P2"><text:line-break/>O beneficio é que temos um alto desempenho e agilidade no código. </text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/>Metodo Saque Banco</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P6">Para criar um metodo de saque, criamos uma função que vai ter essa trabalho, no go, não temos o metodo this, como no PHP, utilizamos do ponteiro para indicar qual é o endereço da chamada/struct principal, assim o código vai entender para onde deve ir para conseguir localizar todas as funções. </text:p>
+   <text:p text:style-name="P6"><text:line-break/>Por um padrão do Go, utilizamos apenas a primeira letra da função se for a função CONTA seria o C. </text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6">Ex: </text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P16"><text:line-break/><text:span text:style-name="T2">func </text:span><text:span text:style-name="T3">(</text:span><text:span text:style-name="T11">c </text:span><text:span text:style-name="T3">*</text:span><text:span text:style-name="T7">contaCorrente</text:span><text:span text:style-name="T3">) </text:span><text:span text:style-name="T10">saque</text:span><text:span text:style-name="T3">(valorDosaque </text:span><text:span text:style-name="T2">float64</text:span><text:span text:style-name="T3">) </text:span><text:span text:style-name="T2">string </text:span><text:span text:style-name="T3">{</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3"><text:tab/>podesacar := valorDosaque &lt;= </text:span><text:span text:style-name="T11">c</text:span><text:span text:style-name="T3">.saldo</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T2">if </text:span><text:span text:style-name="T3">podesacar {</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/><text:tab/></text:span><text:span text:style-name="T11">c</text:span><text:span text:style-name="T3">.saldo -= valorDosaque</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/><text:tab/></text:span><text:span text:style-name="T2">return </text:span><text:span text:style-name="T8">&quot;Saque realizado com sucesso&quot;</text:span><text:line-break/><text:span text:style-name="T8"><text:tab/></text:span><text:span text:style-name="T3">} </text:span><text:span text:style-name="T2">else </text:span><text:span text:style-name="T3">{</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/><text:tab/></text:span><text:span text:style-name="T2">return </text:span><text:span text:style-name="T8">&quot;Valor não é suficiente&quot;</text:span><text:line-break/><text:span text:style-name="T8"><text:tab/></text:span><text:span text:style-name="T3">}</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">}</text:span><text:line-break/></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P7">Multiplos Retornos</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P8">Podemos passar mais de um retorno, assim conseguimos puxar mais de um retorno e trata-los posteriormente. <text:line-break/></text:p>
+   <text:p text:style-name="P8">Ex:</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P17"><text:span text:style-name="T2">func </text:span><text:span text:style-name="T3">(</text:span><text:span text:style-name="T11">c </text:span><text:span text:style-name="T3">*</text:span><text:span text:style-name="T7">contaCorrente</text:span><text:span text:style-name="T3">) </text:span><text:span text:style-name="T10">deposito</text:span><text:span text:style-name="T3">(valorDeposito </text:span><text:span text:style-name="T2">float64</text:span><text:span text:style-name="T3">) (</text:span><text:span text:style-name="T2">string, float64</text:span><text:span text:style-name="T3">) {</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T2">if </text:span><text:span text:style-name="T3">valorDeposito &gt; </text:span><text:span text:style-name="T9">0 </text:span><text:span text:style-name="T3">{</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/><text:tab/></text:span><text:span text:style-name="T11">c</text:span><text:span text:style-name="T3">.saldo += valorDeposito</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/>}</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T2">return </text:span><text:span text:style-name="T8">&quot;Deposito realizado com sucesso no valor:&quot;</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T11">c</text:span><text:span text:style-name="T3">.saldo</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">}</text:span></text:p>
+   <text:p text:style-name="P8"><text:line-break/>Assim, quando chamarmos a função vamos ter mais de um retorno para utilizar.</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"><text:soft-page-break/><text:line-break/>Transferencia entre Contas</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Para a transferencia, temos que lembrar de sempre utilizar o PONTEIRO, para assim falar com o sistema para onde estamos enviando os dados, dessa forma, o mesmo vai sempre trabalhar da forma correta, abaixo está o exemplo de uma função que realiza tal transferencia. </text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P17"><text:span text:style-name="T2">func </text:span><text:span text:style-name="T3">(</text:span><text:span text:style-name="T11">c </text:span><text:span text:style-name="T3">*</text:span><text:span text:style-name="T7">contaCorrente</text:span><text:span text:style-name="T3">) </text:span><text:span text:style-name="T10">transferir</text:span><text:span text:style-name="T3">(valorTransferencia </text:span><text:span text:style-name="T2">float64, </text:span><text:span text:style-name="T3">contaDestino *</text:span><text:span text:style-name="T7">contaCorrente</text:span><text:span text:style-name="T3">) (</text:span><text:span text:style-name="T2">string, bool</text:span><text:span text:style-name="T3">) {</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T2">if </text:span><text:span text:style-name="T3">valorTransferencia &lt; </text:span><text:span text:style-name="T11">c</text:span><text:span text:style-name="T3">.saldo &amp;&amp; valorTransferencia &gt; </text:span><text:span text:style-name="T9">0 </text:span><text:span text:style-name="T3">{</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/><text:tab/></text:span><text:span text:style-name="T11">c</text:span><text:span text:style-name="T3">.saldo -= valorTransferencia</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/><text:tab/>contaDestino.</text:span><text:span text:style-name="T6">deposito</text:span><text:span text:style-name="T3">(valorTransferencia)</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3"><text:tab/><text:tab/></text:span><text:span text:style-name="T2">return </text:span><text:span text:style-name="T8">&quot;Transferencia realizado com sucesso&quot;</text:span><text:span text:style-name="T2">, true</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">} </text:span><text:span text:style-name="T2">else </text:span><text:span text:style-name="T3">{</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/><text:tab/></text:span><text:span text:style-name="T2">return </text:span><text:span text:style-name="T8">&quot;Não foi possivel realizar tranferencia&quot;</text:span><text:span text:style-name="T2">, false</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">}</text:span><text:line-break/><text:span text:style-name="T3">}</text:span><text:line-break/></text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P9">Pacotes e Visibilidades</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P5"><text:span text:style-name="T12">Para deixar com visibilidade para outros arquivos poderem acessar ( public), utilizamos a primeira letra Maiscula e para deixar visivel apenas para aquele arquivo, utilizamos apenas letras minusculas. Ex:</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P9">Composição de Structs</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Em go, não trabalhamos com herança e sim composição. Dessa forma conseguimos utilizar, passar outros tipos e dados para uma estrutura e chamar ela posteriormente. Da seguinte forma:<text:line-break/><text:line-break/>Em outro arquivo criamos um novo struct:<text:line-break/><text:line-break/>clientes.go</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P17"><text:span text:style-name="T2">package </text:span><text:span text:style-name="T5">clientes</text:span><text:line-break/><text:line-break/><text:span text:style-name="T2">type </text:span><text:span text:style-name="T3">Titular </text:span><text:span text:style-name="T2">struct </text:span><text:span text:style-name="T3">{</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/>Nome <text:s text:c="5"/></text:span><text:span text:style-name="T2">string</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">CPF <text:s text:c="6"/></text:span><text:span text:style-name="T2">string</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">Profissao </text:span><text:span text:style-name="T2">string</text:span><text:line-break/><text:span text:style-name="T3">}</text:span><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"><text:soft-page-break/>Depois chamamos esse Titular novo que é uma struct:</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">contas.go</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P17"><text:span text:style-name="T2">package </text:span><text:span text:style-name="T5">contas</text:span><text:line-break/><text:line-break/><text:span text:style-name="T2">import </text:span><text:span text:style-name="T8">&quot;banco/clientes&quot;</text:span><text:line-break/><text:line-break/><text:span text:style-name="T2">type </text:span><text:span text:style-name="T3">ContaCorrente </text:span><text:span text:style-name="T2">struct </text:span><text:span text:style-name="T3">{</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/>Titular <text:s text:c="6"/></text:span><text:span text:style-name="T5">clientes</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T7">Titular</text:span><text:line-break/><text:span text:style-name="T7"><text:tab/></text:span><text:span text:style-name="T3">NumeroAgencia </text:span><text:span text:style-name="T2">int</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">NumeroConta <text:s text:c="2"/></text:span><text:span text:style-name="T2">int</text:span><text:line-break/><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T3">Saldo <text:s text:c="8"/></text:span><text:span text:style-name="T2">float64</text:span><text:line-break/><text:span text:style-name="T3">}</text:span><text:line-break/></text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P11">Tipos Aninhados </text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P12">Podemos chamar de uma forma mais organizada o código para que assim o mesmo de uma resposta mais limpa:</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P18"><text:span text:style-name="T4"><text:tab/></text:span><text:span text:style-name="T3">clienteThailan := </text:span><text:span text:style-name="T5">clientes</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T7">Titular</text:span><text:span text:style-name="T3">{</text:span><text:span text:style-name="T8">&quot;Thailan&quot;</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T8">&quot;123414515&quot;</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T8">&quot;Developer&quot;</text:span><text:span text:style-name="T3">}</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/>contaThailan := </text:span><text:span text:style-name="T5">contas</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T7">ContaCorrente</text:span><text:span text:style-name="T3">{Titular: </text:span><text:span text:style-name="T5">clientes</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T7">Titular</text:span><text:span text:style-name="T3">{</text:span><text:span text:style-name="T8">&quot;Thailan&quot;</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T8">&quot;123414515&quot;</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T8">&quot;Developer&quot;</text:span><text:span text:style-name="T3">}</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T3">NumeroConta: </text:span><text:span text:style-name="T9">21231</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T3">NumeroAgencia: </text:span><text:span text:style-name="T9">1223</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T3">Saldo: </text:span><text:span text:style-name="T9">1.200</text:span><text:span text:style-name="T3">}</text:span><text:line-break/><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T5">fmt</text:span><text:span text:style-name="T3">.</text:span><text:span text:style-name="T6">Println</text:span><text:span text:style-name="T3">(clienteThailan</text:span><text:span text:style-name="T2">, </text:span><text:span text:style-name="T3">contaThailan)</text:span><text:line-break/><text:span text:style-name="T3">}</text:span><text:line-break/></text:p>
+   <text:p text:style-name="P12"><text:line-break/><text:line-break/>Assim, fazendo ainda as chamadas de forma correta e temos uma saida de dados mais clean para visualização e consumo de dados. </text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P13">Alterando Visibilidade</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12">Para alterar a visibilidade, podemos colocar de forma privada e para acessar podemos criar uma função exclusiva para criar dar acesso a algo privado.</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P13">Interfaces</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P14">Podemos reaproveitar métodos ou funções entre tipos utilizando interface. </text:p>
+  </office:text>
+ </office:body>
+</office:document>
